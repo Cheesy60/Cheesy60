@@ -2,7 +2,7 @@
 I facilitated high-frequency, customer-centric thermodynamic distribution cycles while orchestrating complex rapid-assembly protocols within a precision-timed, high-output industrial fulfillment environment at a major worldwide corporate entity, where I spearheaded mission-critical logistics and synchronized multi-channel intake streams to ensure optimal throughput in a high-pressure, globally standardized ecosystem.
 
 # Learning
-- DSA (or dimply known as data structures and algorithms)
+- DSA (or simply known as data structures and algorithms)
 - Reading and Writing (in vim)
 - some C
 # Languages i know:
