@@ -1,5 +1,5 @@
 # Experience 
-I facilitated high-frequency, customer-centric thermodynamic distribution cycles while orchestrating complex rapid-assembly protocols within a precision-timed, high-output industrial fulfillment environment at a major worldwide corporate entity, where I spearheaded mission-critical logistics and synchronized multi-channel intake streams to ensure optimal throughput in a high-pressure, globally standardized ecosystem.
+I architected and deployed a robust, multi-tier data management ecosystem leveraging the Java Runtime Environment, ensuring high-availability and seamless state persistence through optimized CRUD operations. I engineered a highly-customized, keyboard-driven development infrastructure, orchestrating a terminal-multiplexed Linux environment via Vim and tmux to achieve peak operational efficiency and eliminate navigational latency. Furthermore, I consistently maintain premier academic standing, recognized as a top-performing student within a rigorous applied programming curriculum.
 
 # Learning
 - DSA (or simply known as data structures and algorithms)
